@@ -200,7 +200,7 @@
 <rectangle x1="9" y1="4" x2="18" y2="5" layer="41"/>
 <rectangle x1="9" y1="0" x2="10" y2="5" layer="41"/>
 <rectangle x1="0" y1="0" x2="10" y2="1" layer="41"/>
-<text x="17.5" y="15.5" size="1" layer="25" rot="R90" align="bottom-center">GroveGear 0.0.1-X</text>
+<text x="17.5" y="15.5" size="1" layer="25" rot="R90" align="bottom-center">GrovePort 0.0.1-X</text>
 <text x="1.5" y="1.5" size="1" layer="25" align="center-left">2-M2.5</text>
 <text x="2" y="5" size="1" layer="25" align="center">D</text>
 <text x="4" y="5" size="1" layer="25" align="center">A</text>
